@@ -1,6 +1,6 @@
 # E-Commerce Store 🛒
 
-[View Project](https://mern-e-commerce-88f3.onrender.com)
+[LINK FOR PROJECT](https://mern-e-commerce-88f3.onrender.com)
 
 Tech Stack & Features:
 
